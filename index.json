@@ -1,0 +1,28 @@
+{
+    "sections": [
+        {
+            "title": "Index page",
+            "filename": "Index.pdf"
+          },
+      {
+        "title": "Vision and Mission of Institute & Department",
+        "filename": "vision_mission.pdf"
+      },
+     
+   
+      {
+        "title": "Time Table",
+        "filename": "timetable.pdf"
+      },
+      {
+        "title": "Mapping of CO with PO",
+        "filename": "mapping_co_po.pdf"
+      },
+      {
+        "title": "Summary lecture plan (unit wise)",
+        "filename": "summary_lecture_plan.pdf"
+      }
+      
+    ]
+  }
+  
