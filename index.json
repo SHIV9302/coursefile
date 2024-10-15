@@ -1,27 +1,136 @@
 {
-    "sections": [
-        {
-            "title": "Index page",
-            "filename": "Index.pdf"
-          },
-      {
-        "title": "Vision and Mission of Institute & Department",
-        "filename": "vision_mission.pdf"
-      },
-     
-      {
-        "title": "Time Table",
-        "filename": "timetable.pdf"
-      },
-      {
-        "title": "Mapping of CO with PO",
-        "filename": "mapping_co_po.pdf"
-      },
-      {
-        "title": "Summary lecture plan (unit wise)",
-        "filename": "summary_lecture_plan.pdf"
-      }
-      
-    ]
-  }
-  
+  "sections": [
+    {
+      "title": "Index page",
+      "filename": "Index.pdf"
+    },
+    {
+      "title": "Vision and Mission of Institute & Department",
+      "filename": "vision_mission.pdf"
+    },
+    {
+      "title": "List of PO & PEO",
+      "filename": "po_peo.pdf"
+    },
+    {
+      "title": "Time Table",
+      "filename": "timetable.pdf"
+    },
+    {
+      "title": "Mapping of CO with PO",
+      "filename": "mapping_co_po.pdf"
+    },
+    {
+      "title": "Summary lecture plan (unit wise)",
+      "filename": "summary_lecture_plan.pdf"
+    },
+    {
+      "title": "Detail lecture plan (Day Wise) [40 lectures]",
+      "filename": "detail_lecture_plan.pdf"
+    },
+    {
+      "title": "Tutorials sheet/Home Assignments (At least 6)",
+      "filename": "tutorials_home_assignments.pdf"
+    },
+    {
+      "title": "Tutorials sheet solutions with rubrics",
+      "filename": "tutorials_solutions_rubrics.pdf"
+    },
+    {
+      "title": "Mid Semester papers & its solution with rubrics",
+      "filename": "mid_semester_papers_solutions.pdf"
+    },
+    {
+      "title": "Classroom quizzes (at least four) with solution (10 min each)",
+      "filename": "classroom_quizzes.pdf"
+    },
+    {
+      "title": "Moodle MCQ (at least 6) (at least 10 questions per MCQ)",
+      "filename": "moodle_mcq.pdf"
+    },
+    {
+      "title": "Lab Plan (at least 12 Labs) [What to do in each lab]",
+      "filename": "lab_plan.pdf"
+    },
+    {
+      "title": "Lab Assignments (at least 6)",
+      "filename": "lab_assignments.pdf"
+    },
+    {
+      "title": "Lab Assignments solution with rubrics",
+      "filename": "lab_assignments_solutions_rubrics.pdf"
+    },
+    {
+      "title": "Mini Project list and rubrics",
+      "filename": "mini_project_list_rubrics.pdf"
+    },
+    {
+      "title": "Final Exam paper with solution and rubrics",
+      "filename": "final_exam_paper_solutions_rubrics.pdf"
+    },
+    {
+      "title": "List of CO Assessment activities (Direct & Indirect)",
+      "filename": "co_assessment_activities.pdf"
+    },
+    {
+      "title": "Pie chart of assessments activities w.r.t bloom taxonomy, CO",
+      "filename": "pie_chart_assessments_bloom_co.pdf"
+    },
+    {
+      "title": "CO and PO Attainment",
+      "filename": "co_po_attainment.pdf"
+    },
+    {
+      "title": "Mode of Content Delivery (for Theory & Lab)",
+      "filename": "content_delivery.pdf"
+    },
+    {
+      "title": "Question Bank - at least 100 questions (topic–wise)",
+      "filename": "question_bank.pdf"
+    },
+    {
+      "title": "Course assessment policies (How to calculate CW/SW)",
+      "filename": "course_assessment_policies.pdf"
+    },
+    {
+      "title": "CW/SW assessment sheet of students",
+      "filename": "cw_sw_assessment_sheet.pdf"
+    },
+    {
+      "title": "Mapping of CO with Lab Experiments (If Applicable)",
+      "filename": "mapping_co_lab_experiments.pdf"
+    },
+    {
+      "title": "Students attendance record",
+      "filename": "students_attendance.pdf"
+    },
+    {
+      "title": "Students Feedback (Pre and post)",
+      "filename": "students_feedback.pdf"
+    },
+    {
+      "title": "Mapping of all assessment activities to PI, CO, and Bloom's taxonomy",
+      "filename": "mapping_assessment_activities.pdf"
+    },
+    {
+      "title": "Summary (in Bar/Pie/.. Graph) of all assessment activities",
+      "filename": "assessment_activities_summary.pdf"
+    },
+    {
+      "title": "CO, PO Attainment analysis",
+      "filename": "co_po_attainment_analysis.pdf"
+    },
+    {
+      "title": "Student’s feedback analysis",
+      "filename": "students_feedback_analysis.pdf"
+    },
+    {
+      "title": "Any other innovative practice",
+      "filename": "innovative_practice.pdf"
+    },
+    {
+      "title": "List of actions taken to improve PO attainment",
+      "filename": "actions_improve_po_attainment.pdf"
+    }
+  ]
+}
